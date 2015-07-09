@@ -1,2 +1,1 @@
-# mpi-integral-calculator
-  mpi-integral-calculator contains an implementation of an integral calcultator using mpi
+# This repository contains a series of experiments with parallel programming technologies
